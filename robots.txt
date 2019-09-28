@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neeshaexah.kkun.cc/sitemap.xml
